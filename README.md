@@ -8,5 +8,5 @@ Developed by
 
 ---
 
-!(M1)[https://i.imgur.com/WHzFP9e.png]
-!(M2)[https://i.imgur.com/BcLUEr7.jpeg]
+![M1](https://i.imgur.com/WHzFP9e.png)
+![M2](https://i.imgur.com/BcLUEr7.jpeg)
