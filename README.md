@@ -4,4 +4,4 @@ A recreation of the classic NES title *Metal Gear*, implemented from scratch usi
 
 Developed by 
 * [@fibmixx](https://github.com/fibmixx)
-* [@yingxin04](https://github.com/Yingxin04).
+* [@yingxin04](https://github.com/Yingxin04)
